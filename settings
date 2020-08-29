@@ -1,0 +1,33 @@
+{
+    "files.autoSave": "afterDelay",
+    "workbench.colorTheme": "Omni",
+    "workbench.iconTheme": "material-icon-theme",
+    "files.autoSaveDelay": 500,
+    "emmet.syntaxProfiles": { "javascript": "jsx" },
+    "emmet.includeLanguages": { "javascript": "javascriptreact" },
+    "emmet.triggerExpansionOnTab": true,
+    "window.zoomLevel": 1,
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    "workbench.startupEditor": "newUntitledFile",
+  
+    "explorer.compactFolders": false,
+    "editor.renderLineHighlight": "gutter",
+    "workbench.editor.labelFormat": "short",
+    "extensions.ignoreRecommendations": true,
+  
+    "javascript.updateImportsOnFileMove.enabled": "never",
+    "typescript.updateImportsOnFileMove.enabled": "never",
+  
+    "breadcrumbs.enabled": true,
+    "editor.parameterHints.enabled": false,
+    
+  
+    "javascript.suggest.autoImports": true,
+    "typescript.suggest.autoImports": true,
+    "editor.renderControlCharacters": false
+}
