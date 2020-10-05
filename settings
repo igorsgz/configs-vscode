@@ -1,12 +1,12 @@
 {
     "files.autoSave": "afterDelay",
-    "workbench.colorTheme": "Omni",
+    "workbench.colorTheme": "Dracula",
     "workbench.iconTheme": "material-icon-theme",
     "files.autoSaveDelay": 500,
     "emmet.syntaxProfiles": { "javascript": "jsx" },
     "emmet.includeLanguages": { "javascript": "javascriptreact" },
     "emmet.triggerExpansionOnTab": true,
-    "window.zoomLevel": 1,
+    "window.zoomLevel": 0,
     "explorer.confirmDelete": false,
     "explorer.confirmDragAndDrop": false,
     "editor.suggest.snippetsPreventQuickSuggestions": false,
@@ -29,5 +29,7 @@
   
     "javascript.suggest.autoImports": true,
     "typescript.suggest.autoImports": true,
-    "editor.renderControlCharacters": false
+    "editor.renderControlCharacters": false,
+    "editor.fontSize": 16,
+    "editor.fontFamily": "Fira Code Retina"
 }
