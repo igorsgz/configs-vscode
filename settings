@@ -6,7 +6,6 @@
     "emmet.syntaxProfiles": { "javascript": "jsx" },
     "emmet.includeLanguages": { "javascript": "javascriptreact" },
     "emmet.triggerExpansionOnTab": true,
-    "window.zoomLevel": 0,
     "explorer.confirmDelete": false,
     "explorer.confirmDragAndDrop": false,
     "editor.suggest.snippetsPreventQuickSuggestions": false,
@@ -31,5 +30,13 @@
     "typescript.suggest.autoImports": true,
     "editor.renderControlCharacters": false,
     "editor.fontSize": 16,
-    "editor.fontFamily": "Fira Code Retina"
+    "editor.fontFamily": "Fira Code Retina",
+    "editor.tabSize": 2,
+    "git.autofetch": true,
+    "tabnine.experimentalAutoImports": true,
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
 }
